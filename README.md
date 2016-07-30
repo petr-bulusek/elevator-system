@@ -9,9 +9,9 @@ In constructor you provide number of elevators (e.g. 4) and lowest and highest f
 Example: 
 `es = ElevatorSystem(4, -2, 10)`
 
-elevators get ids 0, ... , number of elevators - 1
+Elevators get ids 0, ... , number of elevators - 1
 
-public interface:
+## Public interface:
 
 * **def hard_set(self, elevator_id: int, current_floor: int, target_floor=None):**
   - for testing, for setting elevators to their init positions, you can also set target and elevator will move there
