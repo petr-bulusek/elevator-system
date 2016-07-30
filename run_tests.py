@@ -1,0 +1,11 @@
+from test_Elevator import test_elevator_movement
+from test_Elevator import test_matches_pickup_request
+
+from test_ElevatorSystem import test_one_elevator_target_request
+from test_ElevatorSystem import test_one_elevator_pickup_request
+
+test_elevator_movement()
+test_matches_pickup_request()
+
+test_one_elevator_target_request()
+test_one_elevator_pickup_request()
