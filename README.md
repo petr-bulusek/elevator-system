@@ -1,5 +1,7 @@
 # elevator-system
 
+**Python 3.x is needed for running the scripts**
+
 **`class ElevatorSystem`**
 
 In constructor you provide number of elevators (e.g. 4) and lowest and highest floor index (e.g. -2 and 10)
