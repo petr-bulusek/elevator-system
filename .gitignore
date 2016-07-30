@@ -89,6 +89,6 @@ ENV/
 .ropeproject
 
 # Visual studio python tools
-.pyproj
-.sln
+*.pyproj
+*.sln
 .vs/
